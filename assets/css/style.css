@@ -1,0 +1,18 @@
+div[class^="wp-block-otfm-html-block"] {
+    margin: 0 auto 12px;
+    padding: 0 6px;
+}
+hr.w_80 {
+    border: 1px solid #e5e5e5;
+    width: 80%;
+}
+.otfm-tube {
+    align-items: center;
+    display: flex;
+}
+.otfm-tube svg {
+    fill: #da1616;
+    height: 36px;
+    margin: -3px 6px 0;
+    width: 36px;
+}
